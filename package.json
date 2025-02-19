@@ -42,7 +42,7 @@
     "debug": "^4.3.4",
     "deepmerge": "^4.3.1",
     "generic-throttle": "^3.1.0",
-    "quickbase": "^6.0.0"
+    "quickbase": "^2.14.1"
   },
   "devDependencies": {
     "@ava/typescript": "^3.0.1",
